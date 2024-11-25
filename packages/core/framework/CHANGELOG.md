@@ -1,5 +1,17 @@
 # @medusajs/framework
 
+## 2.0.7
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/modules-sdk@2.0.7
+  - @medusajs/orchestration@2.0.7
+  - @medusajs/types@2.0.7
+  - @medusajs/utils@2.0.7
+  - @medusajs/workflows-sdk@2.0.7
+  - @medusajs/telemetry@2.0.7
+
 ## 2.0.6
 
 ### Patch Changes
